@@ -13,3 +13,4 @@ ipywidgets>=7.0.0
 scikit-image>=0.19.0
 imageio>=2.15.0
 import-ipynb>=0.2.0
+albumentations>=1.0.0
